@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Miroslav Gospodinov and I'm a 🎓, from Bulgaria!</p>
+<p align="left">💳 My name is Miroslav Gospodinov and I'm a 🎓, from Bulgaria!</p>
 
 ###
 
